@@ -228,3 +228,6 @@ body{
     border: 2px solid #ecb527;
 }
 
+a{
+  text-decoration: none;
+}
